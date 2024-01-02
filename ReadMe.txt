@@ -1,4 +1,5 @@
-
+When the page loads I have mutliple images that transition from off screen
+to on screen and off screen on three different axis  Y X and Z.
 
 X, Y, and Z Images should be relative (and fluid)
 to the background-image container labeled "graph" regardless of size.
