@@ -1,5 +1,5 @@
-When the page loads I have mutliple images that transition from off screen
-to on screen and off screen on three different axis Y, X, and Z.
+When the page loads I have mutliple images that transition from off screen -
+to on screen - and finally off screen, on three different axis Y, X, and Z.
 
 Y, X, and Z Images should be relative (and fluid)
 to the background-image container labeled "graph" regardless 
